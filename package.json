@@ -1,0 +1,26 @@
+{
+  "name": "hw-18-updated",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+  "dev": "vite",
+  "server": "json-server --watch students.json --port 3000"
+},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matviy101/HW-18-UPDATED.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matviy101/HW-18-UPDATED/issues"
+  },
+  "homepage": "https://github.com/matviy101/HW-18-UPDATED#readme",
+  "devDependencies": {
+    "json-server": "^1.0.0-beta.15",
+    "vite": "^8.0.13"
+  }
+}
